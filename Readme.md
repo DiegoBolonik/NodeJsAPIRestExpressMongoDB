@@ -6,3 +6,5 @@ Para isso nós usamos o Mongoose que é uma biblioteca que faz essa conexão com
 Nesta aplicação foi desenvolvida uma API REST do zero, criando rotas, controladores, modelos, se conectou a aplicação a um banco de dados MongoDB em nuvem. 
 Além disso, se utilizou bibliotecas consolidadas e amplamente utilizadas no desenvolvimento Web com Node, como Express e Mongoose. 
 Finalizando o CRUD completo de dois recursos (livros e autores), e se criou consultas personalizadas por campo fazendo associação de dados de um recurso na rota que busca o outro recurso.
+
+![image](https://user-images.githubusercontent.com/79227339/186975843-fa5866e8-8892-45ff-abcd-3e5830622ce0.png)
