@@ -1,9 +1,9 @@
 # API REST com Node JS - Express - Mondodb
 
 Tecnologia:
-Mongo DB: https://account.mongodb.com/account/login
-NodeJS: https://nodejs.org/en/
-ExpressJS: https://expressjs.com/
+Mongo DB: https://account.mongodb.com/account/login <br>
+NodeJS: https://nodejs.org/en/ <br>
+ExpressJS: https://expressjs.com/ <br>
 
 
 
